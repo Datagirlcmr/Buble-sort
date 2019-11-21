@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def bubble_sort_by(arr)
   n = arr.length
   swapped = true
@@ -15,9 +13,3 @@ def bubble_sort_by(arr)
   end
   arr
 end
-
-result = bubble_sort_by(%w[hi hello hey]) do |a, b|
-  a.length - b.length
-end
-
-p result
