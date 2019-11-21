@@ -1,6 +1,6 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
-<br />
+<br /> 
 <p align="center">
  <h3 align="center">The Project was made by - AMADOU / SELMA</h3>
  <p align="center">
