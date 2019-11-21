@@ -10,9 +10,9 @@ def bubble_sort(arr)
             end
         end
     end
-
     print arr
 end
 
 
 bubble_sort([4,10,1,5])
+
