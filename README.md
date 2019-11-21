@@ -5,12 +5,13 @@
  <h3 align="center">The Project was made by - AMADOU / SELMA</h3>
  <p align="center">
    We Built a method #bubble_sort that takes an array and returns a sorted array. 
-    We used the bubble sort methodology
+    We used the bubble sort methodology <br>
+  We then created a similar method called #bubble_sort_by which sorts an array by accepting a block. 
    <br />
    <a href="https://github.com/Datagirlcmr/Buble-sort/tree/features"><strong>Explore the docs »</strong></a>
    <br />
    <br />
-   <a href="https://rawcdn.githack.com/Datagirlcmr/Grid-Based-Framework/45cf171de1cf36b8f08a641b5cc7829ddbf9f493/index.html"> :wink: View Demo </a> 
+   <a href="https://repl.it/@genzaraki/bubblesort "> :wink: View Demo </a> 
  </p>
 </p>
 <h2 align="center">Tools and Technologies Used<h2>
