@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def bubble_sort(arr)
   n = arr.length
   swapped = true
@@ -14,5 +12,3 @@ def bubble_sort(arr)
   end
   arr
 end
-
-p bubble_sort([4, 10, 1, 5])
