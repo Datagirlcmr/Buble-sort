@@ -8,7 +8,7 @@
     We used the bubble sort methodology <br>
   We then created a similar method called #bubble_sort_by which sorts an array by accepting a block. 
    <br />
-   <a href="https://github.com/Datagirlcmr/Buble-sort/tree/features"><strong>Explore the docs »</strong></a>
+   <a href="https://github.com/Datagirlcmr/Buble-sort"><strong>Explore the docs »</strong></a>
    <br />
    <br />
    <a href="https://repl.it/@genzaraki/bubblesort "> :wink: View Demo </a> 
@@ -27,7 +27,7 @@
 Selma Ndi :woman: - [Github profile](https://github.com/Datagirlcmr)
 <br>
 Amadou Ibrahim :man: - [Github profile](https://github.com/genzaraki)
-Project Link :envelope:: [Project repo](https://github.com/Datagirlcmr/Buble-sort/tree/features)
+Project Link :envelope:: [Project repo](https://github.com/Datagirlcmr/Buble-sort)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
